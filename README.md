@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fowsan</h1>
+<h1 align="center">Hi 👋, I'm <br>Mohamed Fowsan</h1>
 <h3 align="center">👨‍💻 Full Stack Developer from Sri Lanka 🌏</h3>
 
 - 🔭 I’m currently working on **my personal projects**
